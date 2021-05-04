@@ -217,7 +217,7 @@ Gamemakin LLC不是律师，但请不要给项目介绍非法动作和行为，�
     </tr>
     <tr>
         <td>Animation Sequence</td>
-        <td>BS_</td>
+        <td>A_</td>
     </tr>
     <tr>
         <td>Blend Space 1D</td>

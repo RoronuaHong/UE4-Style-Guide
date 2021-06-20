@@ -1,5 +1,6 @@
 原版地址: [UE4 Style Guide](https://github.com/Allar/ue4-style-guide#terms-cases)
 ------------------------
+
 ## Unreal Engine 4 Linter Plugin
 
 [Unreal Engine 4 Linter Plugin](https://www.unrealengine.com/marketplace/linter-v2): 一个免费的自动检测代码风格的插件, 请使用市场版本UE。
@@ -1522,4 +1523,5 @@ AbilityID
     
     每个纹理都有一个用于 LODing 的纹理组属性，并且应该根据其使用来正确设置。 例如，所有UI纹理都应该属于UI纹理组。
 
+    完毕。
 
